@@ -10,4 +10,8 @@
 
 - 📬Contact at: [contact@daruks.com](mailto:contact@daruks.com)<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darui3018823&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darui3018823&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darui3018823&theme=blue_green)<br><br>
+
+Use Languages,Tools<br>
+![aws](https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png)
+![aws](https://www.python.org/static/apple-touch-icon-144x144-precomposed.png)
