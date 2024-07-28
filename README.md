@@ -13,5 +13,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darui3018823&theme=blue_green)<br><br>
 
 Use Languages,Tools<br>
-![aws](https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png)
-![aws](https://www.python.org/static/apple-touch-icon-144x144-precomposed.png)
+<style>
+  .custom-size {
+    width: 25px;
+    height: 25px;
+  }
+</style>
+<img src="(https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png" alt="aws" class="custom-size">
+<img src="https://www.python.org/static/apple-touch-icon-144x144-precomposed.png" alt="Python" class="custom-size">
