@@ -9,3 +9,5 @@
 </dl>
 
 - 📬Contact at: [contact@daruks.com](mailto:contact@daruks.com)<br><br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darui3018823&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darui3018823&theme=blue_green)
