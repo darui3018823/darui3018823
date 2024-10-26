@@ -18,7 +18,7 @@ Use Program Languagesのところはやれと言われたら自分で調べて�
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darui3018823&theme=blue_green)<br><br>
 
 **Use Tools**<br><br>
-![aws](https://darui3018823.github.io/profilepic/profile/resized/aws.jpg) ![adobecc](https://darui3018823.github.io/profilepic/profile/resized/AdobeCC.png) ![github](https://darui3018823.github.io/profilepic/profile/resized/github-mark-white.png) ![VisualStudioCode](https://darui3018823.github.io/profilepic/profile/resized/vsc.png) ![VisualStudio](https://darui3018823.github.io/profilepic/profile/resized/Visual_Studio_Icon_2022.svg.png)
+![aws](https://darui3018823.github.io/profilepic/profile/resized/aws.jpg) ![adobecc](https://darui3018823.github.io/profilepic/profile/resized/AdobeCC.png) ![github](https://darui3018823.github.io/profilepic/profile/resized/github-mark-white.png) ![VisualStudioCode](https://darui3018823.github.io/profilepic/profile/resized/vsc.png)
 <br>
 <br>
 **Use Program Languages**<br><br>
