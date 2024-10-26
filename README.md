@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darui3018823
 - なーんちゃってプログラマー<br>
-- SwiftとかKotlin使いたい<br>
+- Swift, Kotlin, Goとか使いたい<br>
 <dl>
   <dt>Links</dt>
   <dd>https://solo.to/darui3018823</dd></dd>
