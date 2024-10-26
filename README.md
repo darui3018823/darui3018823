@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @darui3018823
 - なーんちゃってプログラマー<br>
 - Swift, Kotlin, Goとか使いたい<br>
+
+Use Program Languagesのところはやれと言われたら自分で調べてやります(たぶん)
+
 <dl>
   <dt>Links</dt>
   <dd>https://solo.to/darui3018823</dd></dd>
@@ -19,4 +22,4 @@
 <br>
 <br>
 **Use Program Languages**<br><br>
-![Python](https://darui3018823.github.io/profilepic/profile/resized/Python_Logo.png) ![html5](https://darui3018823.github.io/profilepic/profile/resized/html5.png) ![css](https://darui3018823.github.io/profilepic/profile/resized/css.png) ![js](https://darui3018823.github.io/profilepic/profile/resized/js.png) ![Swift](https://darui3018823.github.io/profilepic/profile/resized/Swift_ColorLogo.png)
+![Python](https://darui3018823.github.io/profilepic/profile/resized/Python_Logo.png) ![html5](https://darui3018823.github.io/profilepic/profile/resized/html5.png) ![css](https://darui3018823.github.io/profilepic/profile/resized/css.png) ![js](https://darui3018823.github.io/profilepic/profile/resized/js.png) ![Swift](https://darui3018823.github.io/profilepic/profile/resized/Swift_ColorLogo.png) ![Go](https://darui3018823.github.io/profilepic/profile/resized/Go-Logo_LightBlue.png)
