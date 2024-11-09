@@ -21,6 +21,7 @@ Use Program Languagesのところはやれと言われたら自分で調べて�
 <a href="https://aws.amazon.com/jp/"><img src="https://darui3018823.github.io/profilepic/profile/resized/aws.jpg" alt="AWS" /></a>
 <a href="https://www.adobe.com/jp/creativecloud.html"><img src="https://darui3018823.github.io/profilepic/profile/resized/AdobeCC.png" alt="Adobe CC" /></a>
 <a href="https://github.com/"><img src="https://darui3018823.github.io/profilepic/profile/resized/github-mark-white.png" alt="GitHub" /></a>
+<a herf="https://bit.ly/3CfySc4"><img src="https://darui3018823.github.io/profilepic/profile/resized/PowerShell.png" alt="PowerShell 5.1" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://darui3018823.github.io/profilepic/profile/resized/vsc.png" alt="Visual Studio Code" /></a>
 <br>
 <br>
