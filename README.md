@@ -42,7 +42,11 @@ Task {
 <a href="https://code.visualstudio.com/">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/vscode.png" alt="Visual Studio Code" height="50" />
 </a>
-<br><br>
+<a href="https://visualstudio.microsoft.com/ja/">
+  <img src="https://darui3018823.github.io/profilepic/profile/raw/Visual_Studio_Icon_2022.png" alt="Visual Studio 2022" height="50" />
+</a>
+<br>
+<br>
 **Use Program Languages**<br><br>
 <a href="https://www.python.org/">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/python.png" alt="Python" height="50" />
