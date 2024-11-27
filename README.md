@@ -4,7 +4,7 @@ import Foundation
 func darui3018823() async {
     print("👋 Hi, I’m @darui3018823")
     print("なーんちゃってプログラマー")
-    print("Swift, Kotlin, Goとか使いたい")
+    print("Swift, Kotlin, Goとか使えるようになりたい")
     print("Use Program Languagesのところはやれと言われたら自分で調べてやります(たぶん)")
 }
 
