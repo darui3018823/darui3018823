@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @darui3018823
-- なーんちゃってプログラマー<br>
-- Swift, Kotlin, Goとか使いたい<br>
+```swift
+import Foundation
 
-Use Program Languagesのところはやれと言われたら自分で調べてやります(たぶん)
+func darui3018823() async {
+    print("👋 Hi, I’m @darui3018823")
+    print("なーんちゃってプログラマー")
+    print("Swift, Kotlin, Goとか使いたい")
+    print("Use Program Languagesのところはやれと言われたら自分で調べてやります(たぶん)")
+}
+
+Task {
+    await darui3018823()
+}
+```
 
 <dl>
   <dt>Links</dt>
