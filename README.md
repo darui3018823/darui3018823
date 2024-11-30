@@ -57,6 +57,9 @@ Task {
 <a href="https://www.python.org/">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/python.png" alt="Python" height="50" />
 </a>
+<a href="https://developer.apple.com/jp/swift/">
+  <img src="https://darui3018823.github.io/profilepic/profile/raw/Swift_logo_color.svg" alt="Swift" height="50" />
+</a>
 <a href="https://developer.mozilla.org/ja-JP/docs/Web/HTML">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/html5.png" alt="HTML5" height="50" />
 </a>
@@ -65,9 +68,6 @@ Task {
 </a>
 <a href="https://developer.mozilla.org/ja-JP/docs/Web/JavaScript">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/js.png" alt="JavaScript" height="50" />
-</a>
-<a href="https://developer.apple.com/jp/swift/">
-  <img src="https://darui3018823.github.io/profilepic/profile/raw/Swift_logo_color.svg" alt="Swift" height="50" />
 </a>
 <a href="https://kotlinlang.org/">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/Kotlin%20Full%20Color%20Logo%20Mark%20RGB.png" alt="Kotlin" height="50" />
