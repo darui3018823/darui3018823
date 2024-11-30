@@ -7,16 +7,21 @@ func darui3018823() async {
     print("Swift, Kotlin, Goとか使えるようになりたい")
     print("Use Program Languagesのところはやれと言われたら自分で調べてやります(たぶん)")
 }
+
 func AboutMe() async {
     print("コード書いたりゲームしたり いろんなことをしています")
     print("Arcaeaは神ゲーなのでやりましょう")
     print("macください")
 }
 
-Task {
-    await darui3018823()
-    await AboutMe()
+@main
+struct Main {
+    static func main() async {
+        await darui3018823()
+        await AboutMe()
+    }
 }
+
 ```
 
 <dl>
