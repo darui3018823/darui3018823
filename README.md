@@ -81,5 +81,5 @@ struct Main {
   <img src="https://darui3018823.github.io/profilepic/profile/raw/Go-Logo_LightBlue.png" alt="Go" height="50" />
 </a>
 <a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/">
-  <img src="https://darui3018823.github.io/profilepic/profile/raw/CSharp.png" alt="Go" height="50" />
+  <img src="https://darui3018823.github.io/profilepic/profile/raw/CSharp.png" alt="Cs" height="50" />
 </a>
