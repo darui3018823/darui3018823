@@ -54,10 +54,13 @@ struct Main {
   <img src="https://darui3018823.github.io/profilepic/profile/raw/PowerShell_5.0_icon.png" alt="PowerShell 5.1" height="50" />
 </a>
 <a href="https://aws.amazon.com/jp/">
-  <img src="https://darui3018823.github.io/profilepic/profile/raw/aws.jpg" alt="AWS" height="50" />
+  <img src="https://darui3018823.github.io/profilepic/profile/raw/aws.jpg" alt="Amazon Web Services" height="50" />
 </a>
 <a href="https://www.adobe.com/jp/creativecloud.html">
-  <img src="https://darui3018823.github.io/profilepic/profile/raw/AdobeCC.png" alt="Adobe CC" height="50" />
+  <img src="https://darui3018823.github.io/profilepic/profile/raw/AdobeCC.png" alt="Adobe Creative Cloud" height="50" />
+</a>
+<a href="https://dotnet.microsoft.com/ja-jp/">
+  <img src="https://darui3018823.github.io/profilepic/profile/raw/dotnet.png" alt=".NET (dotnet)" height="50" />
 </a>
 <br>
 <br>
