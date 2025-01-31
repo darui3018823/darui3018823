@@ -26,11 +26,11 @@ struct Main {
 
 <dl>
   <dt>🔗Links</dt>
-  <dd>https://solo.to/darui3018823</dd>
+  	<dd>https://solo.to/darui3018823</dd>
   <dt>🏠HomePage</dt>
-  <dd>https://daruks.com/</dd>
+  	<dd>https://daruks.com/</dd>
   <dt>📬Contact at:</dt>
-  <dd>contact@daruks.com</dd>
+  	<dd>contact@daruks.com</dd>
 </dl>
 <br>
 
