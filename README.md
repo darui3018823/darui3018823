@@ -69,6 +69,9 @@ struct Main {
 <a href="https://dotnet.microsoft.com/ja-jp/">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/dotnet.png" alt=".NET (dotnet)" height="50" />
 </a>
+<a href="https://learn.microsoft.com/ja-jp/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio?view=vs-2022">
+  <img src="https://darui3018823.github.io/profilepic/profile/raw/msb-for-vs2022.png" alt="Blend for VS" height="50">
+</a>
 <br>
 <br>
 **Use Program Languages**<br><br>
@@ -77,6 +80,9 @@ struct Main {
 </a>
 <a href="https://developer.apple.com/jp/swift/">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/Swift_logo_color.svg" alt="Swift" height="50" />
+</a>
+<a href="https://go.dev/">
+  <img src="https://darui3018823.github.io/profilepic/profile/raw/Go-Logo_LightBlue.png" alt="Go" height="50" />
 </a>
 <a href="https://developer.mozilla.org/ja-JP/docs/Web/HTML">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/html5.png" alt="HTML5" height="50" />
@@ -89,9 +95,6 @@ struct Main {
 </a>
 <a href="https://kotlinlang.org/">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/Kotlin%20Full%20Color%20Logo%20Mark%20RGB.png" alt="Kotlin" height="50" />
-</a>
-<a href="https://go.dev/">
-  <img src="https://darui3018823.github.io/profilepic/profile/raw/Go-Logo_LightBlue.png" alt="Go" height="50" />
 </a>
 <a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/CSharp.png" alt="Cs" height="50" />
