@@ -54,11 +54,17 @@ struct Main {
 <a href="https://git-scm.com/">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/Git-Icon-1788C.png" alt="Git" height="50" />
 </a>
+<a href="https://learn.microsoft.com/ja-jp/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio?view=vs-2022">
+  <img src="https://darui3018823.github.io/profilepic/profile/raw/msb-for-vs2022.png" alt="Blend for VS" height="50">
+</a>
 <a href="https://visualstudio.microsoft.com/ja/">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/Visual_Studio_Icon_2022.png" alt="Visual Studio 2022" height="50" />
 </a>
 <a href="https://learn.microsoft.com/ja-jp/powershell/module/microsoft.powershell.core/about/about_windows_powershell_5.1?view=powershell-5.1">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/PowerShell_5.0_icon.png" alt="PowerShell 5.1" height="50" />
+</a>
+<a href="https://learn.microsoft.com/ja-jp/powershell/scripting/whats-new/what-s-new-in-powershell-75?view=powershell-7.4">
+  <img src="https://darui3018823.github.io/profilepic/profile/raw/Powershell.svg" alt="PowerShell 7.5.0.0" height="50" />
 </a>
 <a href="https://aws.amazon.com/jp/">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/aws.jpg" alt="Amazon Web Services" height="50" />
@@ -68,9 +74,6 @@ struct Main {
 </a>
 <a href="https://dotnet.microsoft.com/ja-jp/">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/dotnet.png" alt=".NET (dotnet)" height="50" />
-</a>
-<a href="https://learn.microsoft.com/ja-jp/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio?view=vs-2022">
-  <img src="https://darui3018823.github.io/profilepic/profile/raw/msb-for-vs2022.png" alt="Blend for VS" height="50">
 </a>
 <br>
 <br>
