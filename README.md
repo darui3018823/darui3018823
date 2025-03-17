@@ -30,7 +30,7 @@ struct Main {
   <dt>🏠HomePage</dt>
   	<dd>https://daruks.com/</dd>
   <dt>📬Contact at:</dt>
-  	<dd><a herf="mailto:contact@daruks.com">contact@daruks.com</a></dd>
+  	<dd>https://daruks.com/redirect/mailto</dd>
 </dl>
 <br>
 
