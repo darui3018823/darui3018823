@@ -66,8 +66,8 @@ struct Main {
 <a href="https://learn.microsoft.com/ja-jp/powershell/scripting/whats-new/what-s-new-in-powershell-75?view=powershell-7.4">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/Powershell.svg" alt="PowerShell 7.5.0.0" height="50" />
 </a>
-<a href="https://aws.amazon.com/jp/">
-  <img src="https://darui3018823.github.io/profilepic/profile/raw/aws.jpg" alt="Amazon Web Services" height="50" />
+<a herf="https://tailwindcss.com/">
+  <img src="https://darui3018823.github.io/profilepic/profile/raw/tailwindcss-mark.d52e9897.svg" alt="Tailwind Css" height="50">
 </a>
 <a href="https://www.adobe.com/jp/creativecloud.html">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/AdobeCC.png" alt="Adobe Creative Cloud" height="50" />
