@@ -44,6 +44,51 @@ struct Main {
 ---
 <br>
 
+## 詳しく自己紹介
+
+
+<strong>Name:</strong><br>
+  darui3018823といいます。<br>
+  末尾を変えて <code>darui3018822</code>、<code>darui3018824</code>、<code>darui3018832</code> や <code>daruks</code> などいろいろあります。<br>
+  "だる"だったり"だるかす"、ほかにもいろいろ名前がありますし呼ばれますが "だる" がいいです。
+
+<br>
+
+<strong>About:</strong><br>
+  <code>discord.py</code> をメインで使っています。Golang に行ってサーバーを立てたりもしています。<br>
+  Swiftで <code>Vapor</code> を使ったちょっときもいこともしています。<br>
+  いろいろありますが言語を極めたりとかは一切しません。出来たら満足。バグは潰します。
+
+<br>
+
+**Interest:**
+
+- **Langs:**
+  - [Golang](https://go.dev)（すべての動的サーバーに起用）
+  - [Python](https://python.org)（discord.py）
+  - [Swift](https://swift.org)（Vaporちょっとだけ）
+
+- **Tools:**
+  - [TailWind CSS](https://tailwindcss.com)
+  - [pwsh](https://learn.microsoft.com/ja-jp/powershell/scripting/whats-new/what-s-new-in-powershell-75?view=powershell-7.4)（pwshは大事です）
+
+
+<br>
+
+<strong>Policy:</strong>  
+1. 動くようにする  
+   > 当たり前ですが大事です  
+2. 自己満のために好きなものを作る  
+   > 自己満は承認欲求くらい大事かもしれません  
+3. 読みやすさだけは確保する  
+   > PEPに準じていなくても改行は大切
+
+      
+<br>
+
+---
+<br>
+
 **Use Tools**<br><br>
 <a href="https://code.visualstudio.com/">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/vscode.png" alt="Visual Studio Code" height="50" />
@@ -66,7 +111,7 @@ struct Main {
 <a href="https://learn.microsoft.com/ja-jp/powershell/scripting/whats-new/what-s-new-in-powershell-75?view=powershell-7.4">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/Powershell.svg" alt="PowerShell 7.5.0.0" height="50" />
 </a>
-<a herf="https://tailwindcss.com/">
+<a href="https://tailwindcss.com/">
   <img src="https://darui3018823.github.io/profilepic/profile/raw/tailwindcss-mark.d52e9897.svg" alt="Tailwind Css" height="50">
 </a>
 <a href="https://www.adobe.com/jp/creativecloud.html">
