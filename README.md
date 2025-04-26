@@ -1,3 +1,15 @@
+<h1 align="center">OSS is OSS</h1>
+
+In line with its core philosophy, my OSS is released as OSS.<br>
+It is not CSS (Closed Source Software), but genuine OSS — freely available to all users under the terms of its license.<br>
+I'm not a fan of CSS — neither the fully closed kind nor the styling one, with a particular dislike for the latter.<br>
+
+<br>
+
+---
+
+<br>
+
 ```swift
 import Foundation
 
@@ -5,7 +17,6 @@ func darui3018823() async {
     print("👋 Hi, I’m @darui3018823")
     print("なーんちゃってプログラマー")
     print("Swift, Kotlin, Goとか使えるようになりたい")
-    print("Use Program Languagesのところはやれと言われたら自分で調べてやります(たぶん)")
 }
 
 func AboutMe() async {
