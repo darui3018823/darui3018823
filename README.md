@@ -37,11 +37,11 @@ struct Main {
 
 <dl>
   <dt>🔗Links</dt>
-  	<dd target="_brank">https://solo.to/darui3018823</dd>
+  	<dd target="_blank">https://solo.to/darui3018823</dd>
   <dt>🏠HomePage</dt>
-  	<dd target="_brank">https://daruks.com/</dd>
+  	<dd target="_blank">https://daruks.com/</dd>
   <dt>📬Contact at:</dt>
-  	<dd target="_brank">https://daruks.com/redirect/mailto</dd>
+  	<dd target="_blank">https://daruks.com/redirect/mailto</dd>
 </dl>
 <br>
 
