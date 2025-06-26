@@ -158,6 +158,9 @@ struct Main {
 <a href="https://tailwindcss.com/">
 	<img src="https://cdn.daruks.com/profile/assets/tailwindcss-mark.d52e9897.svg" alt="Tailwind Css" height="45">
 </a>
+<a href="https://michalsnik.github.io/aos/">
+	<img src="" alt="AOS" height="50" />
+</a>
 
 **Use Framework/Runtime**<br>
 <a href="https://dotnet.microsoft.com/ja-jp/">
