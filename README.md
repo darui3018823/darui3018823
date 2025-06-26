@@ -98,7 +98,7 @@ struct Main {
 ---
 <br>
 
-**Use Program Languages**<br><br>
+**Use Programming Languages**<br><br>
 <a href="https://go.dev/">
 	<img src="https://cdn.daruks.com/profile/assets/Go-Logo_LightBlue.png" alt="Go" height="50" />
 </a>
@@ -156,10 +156,13 @@ struct Main {
 	<img src="https://cdn.daruks.com/profile/assets/AdobeCC.png" alt="Adobe Creative Cloud" height="50" />
 </a>
 <a href="https://tailwindcss.com/">
-	<img src="https://cdn.daruks.com/profile/assets/tailwindcss-mark.d52e9897.svg" alt="Tailwind Css" height="50">
+	<img src="https://cdn.daruks.com/profile/assets/tailwindcss-mark.d52e9897.svg" alt="Tailwind Css" height="45">
 </a>
 
 **Use Framework/Runtime**<br>
 <a href="https://dotnet.microsoft.com/ja-jp/">
     <img src="https://cdn.daruks.com/profile/assets/dotnet.png" alt=".NET (dotnet)" height="50" />
+</a>
+<a href="https://nodejs.org/">
+	<img src="https://nodejs.org/static/logos/jsIconGreen.svg" alt="node.js" height="50" />
 </a>
