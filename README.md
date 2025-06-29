@@ -115,7 +115,7 @@ struct Main {
 	<img src="https://cdn.daruks.com/profile/assets/css.png" alt="CSS" height="50" />
 </a>
 <a href="https://developer.mozilla.org/ja-JP/docs/Web/JavaScript">
-	<img src="https://cdn.daruks.com/profile/assets/js.png" alt="JavaScript" height="50" />
+	<img src="https://cdn.daruks.com/profile/assets/javascript.png" alt="JavaScript" height="50" />
 </a>
 <a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/">
 	<img src="https://cdn.daruks.com/profile/assets/CSharp.png" alt="Cs" height="50" />
