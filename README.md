@@ -46,10 +46,9 @@ struct Main {
 ---
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darui3018823&theme=blue_green)<br>
+<img src="https://raw.githubusercontent.com/darui3018823/metrics/master/github-metrics.svg" alt="GitHub Metrics" /><br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darui3018823&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darui3018823&theme=blue_green)<br>
-![GitHub Streak](https://streak-stats.demolab.com?user=darui3018823&theme=highcontrast&hide_border=true)<br>
 ![](https://github-profile-trophy.vercel.app/?username=darui3018823&title=MultiLanguage,Commits,Repo,Experience&theme=discord&no-frame=true)
 
 ---
