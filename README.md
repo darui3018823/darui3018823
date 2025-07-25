@@ -124,6 +124,9 @@ struct Main {
 <a href="https://kotlinlang.org/">
 	<img src="https://cdn.daruks.com/profile/assets/Kotlin%20Full%20Color%20Logo%20Mark%20RGB.png" alt="Kotlin" height="50" />
 </a>
+<a href="https://www.rust-lang.org/">
+	<img src="https://cdn.daruks.com/profile/assets/rust.js.svg" alt="Rust" height="50" />
+</a>
 
 **Use Development Tools**<br><br>
 <a href="https://code.visualstudio.com/">
