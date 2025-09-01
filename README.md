@@ -101,7 +101,7 @@ struct Main {
 
 **Use Programming Languages**<br><br>
 <a href="https://go.dev/">
-	<img src="https://cdn.daruks.com/profile/assets/Go-Logo_LightBlue.png" alt="Go" height="50" />
+	<img src="https://cdn.daruks.com/profile/assets/Go-Logo_Blue.png" alt="Go" height="50" />
 </a>
 <a href="https://www.python.org/">
 	<img src="https://cdn.daruks.com/profile/assets/python.png" alt="Python" height="50" />
@@ -110,13 +110,13 @@ struct Main {
 	<img src="https://cdn.daruks.com/profile/assets/Swift_logo_color.svg" alt="Swift" height="50" />
 </a>
 <a href="https://developer.mozilla.org/ja-JP/docs/Web/HTML">
-	<img src="https://cdn.daruks.com/profile/assets/html5.png" alt="HTML5" height="50" />
+	<img src="https://cdn.daruks.com/profile/assets/html.png" alt="HTML5" height="50" />
 </a>
 <a href="https://developer.mozilla.org/ja-JP/docs/Web/CSS">
 	<img src="https://cdn.daruks.com/profile/assets/css.png" alt="CSS" height="50" />
 </a>
 <a href="https://developer.mozilla.org/ja-JP/docs/Web/JavaScript">
-	<img src="https://cdn.daruks.com/profile/assets/”java”script.png" alt="JavaScript" height="50" />
+	<img src="https://cdn.daruks.com/profile/assets/java_javascript.png" alt="JavaScript" height="50" />
 </a>
 <a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/">
 	<img src="https://cdn.daruks.com/profile/assets/CSharp.png" alt="Cs" height="50" />
