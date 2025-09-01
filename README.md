@@ -119,7 +119,7 @@ struct Main {
 	<img src="https://cdn.daruks.com/profile/assets/java_javascript.png" alt="JavaScript" height="50" />
 </a>
 <a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/">
-	<img src="https://cdn.daruks.com/profile/assets/CSharp.png" alt="Cs" height="50" />
+	<img src="https://cdn.daruks.com/profile/assets/Csharp_Logo.png" alt="Cs" height="50" />
 </a>
 <a href="https://kotlinlang.org/">
 	<img src="https://cdn.daruks.com/profile/assets/Kotlin%20Full%20Color%20Logo%20Mark%20RGB.png" alt="Kotlin" height="50" />
