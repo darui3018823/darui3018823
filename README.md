@@ -141,7 +141,7 @@ struct Main {
 
 **Use Version Control Tools**<br>
 <a href="https://github.com/">
-	<img src="https://cdn.daruks.com/profile/assets/github-mark-white.png" alt="GitHub" height="50" />
+	<img src="https://cdn.daruks.com/profile/assets/github-mark.svg" alt="GitHub" height="50" />
 </a>
 <a href="https://git-scm.com/">
 	<img src="https://cdn.daruks.com/profile/assets/Git-Icon-1788C.png" alt="Git" height="50" />
@@ -156,11 +156,8 @@ struct Main {
 </a>
 
 **Use Design/UI Tools**<br>
-<a href="https://www.adobe.com/jp/creativecloud.html">
-	<img src="https://cdn.daruks.com/profile/assets/AdobeCC.png" alt="Adobe Creative Cloud" height="50" />
-</a>
 <a href="https://tailwindcss.com/">
-	<img src="https://cdn.daruks.com/profile/assets/tailwindcss-mark.d52e9897.svg" alt="Tailwind Css" height="45">
+	<img src="https://cdn.daruks.com/profile/assets/tailwindcss-logotype-white.svg" alt="Tailwind Css" height="45">
 </a>
 <a href="https://michalsnik.github.io/aos/">
 	<img src="" alt="AOS" height="50" />
