@@ -144,15 +144,15 @@ struct Main {
 	<img src="https://cdn.daruks.com/profile/assets/github-mark.svg" alt="GitHub" height="50" />
 </a>
 <a href="https://git-scm.com/">
-	<img src="https://cdn.daruks.com/profile/assets/Git-Icon-1788C.png" alt="Git" height="50" />
+	<img src="https://cdn.daruks.com/profile/assets/Git-Icon-1788C.svg" alt="Git" height="50" />
 </a>
 
 **Use CLI/Script Langs**<br>
 <a href="https://learn.microsoft.com/ja-jp/powershell/module/microsoft.powershell.core/about/about_windows_powershell_5.1?view=powershell-5.1">
-	<img src="https://cdn.daruks.com/profile/assets/PowerShell_5.0_icon.png" alt="PowerShell 5.1" height="50" />
+	<img src="https://cdn.daruks.com/profile/assets/pwsh_win.png" alt="PowerShell 5.1" height="50" />
 </a>
 <a href="https://learn.microsoft.com/ja-jp/powershell/scripting/whats-new/what-s-new-in-powershell-75?view=powershell-7.5">
-	<img src="https://cdn.daruks.com/profile/assets/Powershell.svg" alt="PowerShell 7.5.1" height="50" />
+	<img src="https://cdn.daruks.com/profile/assets/pwsh_core.png" alt="PowerShell 7.5.1" height="50" />
 </a>
 
 **Use Design/UI Tools**<br><br>
@@ -162,7 +162,7 @@ struct Main {
 
 **Use Framework/Runtime**<br>
 <a href="https://dotnet.microsoft.com/ja-jp/">
-    <img src="https://cdn.daruks.com/profile/assets/dotnet.svg" alt=".NET (dotnet)" height="50" />
+    <img src="https://cdn.daruks.com/profile/assets/ms_dotnet.png" alt=".NET (dotnet)" height="50" />
 </a>
 <a href="https://nodejs.org/">
 	<img src="https://nodejs.org/static/logos/jsIconGreen.svg" alt="node.js" height="50" />
