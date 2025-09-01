@@ -155,17 +155,14 @@ struct Main {
 	<img src="https://cdn.daruks.com/profile/assets/Powershell.svg" alt="PowerShell 7.5.1" height="50" />
 </a>
 
-**Use Design/UI Tools**<br>
+**Use Design/UI Tools**<br><br>
 <a href="https://tailwindcss.com/">
 	<img src="https://cdn.daruks.com/profile/assets/tailwindcss-logotype-white.svg" alt="Tailwind Css" height="45">
-</a>
-<a href="https://michalsnik.github.io/aos/">
-	<img src="" alt="AOS" height="50" />
 </a>
 
 **Use Framework/Runtime**<br>
 <a href="https://dotnet.microsoft.com/ja-jp/">
-    <img src="https://cdn.daruks.com/profile/assets/dotnet.png" alt=".NET (dotnet)" height="50" />
+    <img src="https://cdn.daruks.com/profile/assets/dotnet.svg" alt=".NET (dotnet)" height="50" />
 </a>
 <a href="https://nodejs.org/">
 	<img src="https://nodejs.org/static/logos/jsIconGreen.svg" alt="node.js" height="50" />
