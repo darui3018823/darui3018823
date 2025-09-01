@@ -113,7 +113,7 @@ struct Main {
 	<img src="https://cdn.daruks.com/profile/assets/html.png" alt="HTML5" height="50" />
 </a>
 <a href="https://developer.mozilla.org/ja-JP/docs/Web/CSS">
-	<img src="https://cdn.daruks.com/profile/assets/css.png" alt="CSS" height="50" />
+	<img src="https://cdn.daruks.com/profile/assets/css.svg" alt="CSS" height="50" />
 </a>
 <a href="https://developer.mozilla.org/ja-JP/docs/Web/JavaScript">
 	<img src="https://cdn.daruks.com/profile/assets/java_javascript.png" alt="JavaScript" height="50" />
