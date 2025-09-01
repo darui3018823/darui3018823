@@ -130,13 +130,13 @@ struct Main {
 
 **Use Development Tools**<br><br>
 <a href="https://code.visualstudio.com/">
-	<img src="https://cdn.daruks.com/profile/assets/vscode.png" alt="Visual Studio Code" height="50" />
+	<img src="https://cdn.daruks.com/profile/assets/vscode.svg" alt="Visual Studio Code" height="50" />
 </a>
 <a href="https://learn.microsoft.com/ja-jp/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio?view=vs-2022">
-	<img src="https://cdn.daruks.com/profile/assets/msb-for-vs2022.png" alt="Blend for VS" height="50">
+	<img src="https://cdn.daruks.com/profile/assets/msb-for-vs2022.webp" alt="Blend for VS" height="50">
 </a>
 <a href="https://visualstudio.microsoft.com/ja/">
-	<img src="https://cdn.daruks.com/profile/assets/Visual_Studio_Icon_2022.png" alt="Visual Studio 2022" height="50" />
+	<img src="https://cdn.daruks.com/profile/assets/Visual_Studio_Icon_2022.svg" alt="Visual Studio 2022" height="50" />
 </a>
 
 **Use Version Control Tools**<br>
