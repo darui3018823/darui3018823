@@ -139,7 +139,15 @@ struct Main {
 	<img src="https://cdn.daruks.com/profile/assets/Visual_Studio_Icon_2022.svg" alt="Visual Studio 2022" height="50" />
 </a>
 
-**Use Version Control Tools**<br>
+**Use Operating Systems**<br><br>
+<a href="https://www.microsoft.com/ja-jp/windows/">
+	<img src="https://cdn.daruks.com/profile/assets/win11.png" alt="Windows 11" height="50" />
+</a>
+<a href="https://ubuntu.com/server">
+	<img src="https://cdn.daruks.com/profile/assets/ubuntu_server.png" alt="ubuntu server" height="50" />
+</a>
+
+**Use Version Control Tools**<br><br>
 <a href="https://github.com/">
 	<img src="https://cdn.daruks.com/profile/assets/github-mark.svg" alt="GitHub" height="50" />
 </a>
@@ -147,7 +155,7 @@ struct Main {
 	<img src="https://cdn.daruks.com/profile/assets/Git-Icon-1788C.svg" alt="Git" height="50" />
 </a>
 
-**Use CLI/Script Langs**<br>
+**Use CLI/Script Langs**<br><br>
 <a href="https://learn.microsoft.com/ja-jp/powershell/module/microsoft.powershell.core/about/about_windows_powershell_5.1?view=powershell-5.1">
 	<img src="https://cdn.daruks.com/profile/assets/pwsh_win.png" alt="PowerShell 5.1" height="50" />
 </a>
@@ -160,7 +168,7 @@ struct Main {
 	<img src="https://cdn.daruks.com/profile/assets/tailwindcss-logotype-white.svg" alt="Tailwind Css" height="45">
 </a>
 
-**Use Framework/Runtime**<br>
+**Use Framework/Runtime**<br><br>
 <a href="https://dotnet.microsoft.com/ja-jp/">
     <img src="https://cdn.daruks.com/profile/assets/ms_dotnet.png" alt=".NET (dotnet)" height="50" />
 </a>
