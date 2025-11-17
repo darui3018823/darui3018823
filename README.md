@@ -103,10 +103,13 @@ struct Main {
 <a href="https://go.dev/">
 	<img src="https://cdn.daruks.com/profile/assets/Go-Logo_Blue.png" alt="Go" height="50" />
 </a>
+<a href="https://typescriptlang.org/">
+	<img src="https://cdn.daruks.com/profile/assets/ts-logo-512.svg" alt="Ts" height="50" />
+</a>
 <a href="https://www.python.org/">
 	<img src="https://cdn.daruks.com/profile/assets/python.png" alt="Python" height="50" />
 </a>
-<a href="https://developer.apple.com/jp/swift/">
+<a href="https://www.swift.org/">
 	<img src="https://cdn.daruks.com/profile/assets/Swift_logo_color.svg" alt="Swift" height="50" />
 </a>
 <a href="https://developer.mozilla.org/ja-JP/docs/Web/HTML">
