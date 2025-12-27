@@ -1,8 +1,17 @@
 <h1 align="center">OSS is OSS</h1>
 
-In line with its core philosophy, my OSS is released as OSS.<br>
-It is not CSS (Closed Source Software), but genuine OSS — freely available to all users under the terms of its license.<br>
-I'm not a fan of CSS — neither the fully closed kind nor the styling one, with a particular dislike for the latter.<br>
+Some people hide their code like it's a secret recipe.  
+But let's be honest — most of us are just wiring together tools, libraries, and our own glue code and hoping for the best.  
+Why pretend? Share the mess. Let others learn from it. Let them improve it.  
+That's the beauty of OSS: imperfection, shared openly, becomes real progress.
+
+In that spirit, the projects here are released as genuine OSS, not CSS (Closed Source Software).  
+They are freely available to all users under their respective licenses.  
+I’m not a fan of CSS — neither the fully closed kind nor the styling one, with a particular dislike for the latter.  
+
+That said, I do have a soft spot for Tailwind CSS.  
+Not having to write raw CSS and still getting a decent-looking UI is just wonderful.  
+Thanks, TwCSS <3
 
 <br>
 
