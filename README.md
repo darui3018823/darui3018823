@@ -17,7 +17,7 @@ Thanks, TwCSS <3
 
 ---
 
-<br>
+<details><summary><h2>About Me</h2></summary>
 
 ```go
 package main
@@ -66,52 +66,97 @@ func main() {
 }
 ```
 
----
-<br>
-
-<img src="https://raw.githubusercontent.com/darui3018823/metrics/master/github-metrics.svg" alt="GitHub Metrics" /><br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darui3018823&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darui3018823&theme=blue_green)<br>
-![](https://github-profile-trophy.vercel.app/?username=darui3018823&theme=discord&no-frame=true)
-      
-<br>
+</details>
 
 ---
+
+<table width="100%">
+  <tr>
+    <td colspan="3">
+      <b>Programming Languages</b><br><br>
+      <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" height="50"></a>
+      <a href="https://typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="50"></a>
+      <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="50"></a>
+      <a href="https://www.swift.org/"><img src="https://skillicons.dev/icons?i=swift" height="50"></a>
+      <a href="https://developer.mozilla.org/ja-JP/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="50"></a>
+      <a href="https://developer.mozilla.org/ja-JP/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="50"></a>
+      <a href="https://developer.mozilla.org/ja-JP/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="50"></a>
+      <a href="https://learn.microsoft.com/ja-JP/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="50"></a>
+      <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" height="50"></a>
+      <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" height="50"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" valign="top">
+      <b>Editor/IDE</b><br><br>
+      <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="50"></a>
+      <a href="https://visualstudio.microsoft.com/ja/"><img src="https://skillicons.dev/icons?i=visualstudio" height="50"></a>
+      <a href="https://www.jetbrains.com/rider/"><img src="https://skillicons.dev/icons?i=rider" height="50"></a>
+      <a href="https://www.jetbrains.com/webstorm/"><img src="https://skillicons.dev/icons?i=webstorm" height="50"></a>
+      <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" height="50"></a>
+    </td>
+    <td width="40%" valign="top">
+      <b>Tools</b><br><br>
+      <a href="https://learn.microsoft.com/ja-jp/powershell/scripting/overview?view=powershell-7.5"><img src="https://skillicons.dev/icons?i=powershell" height="50"></a>
+      <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="50"></a>
+      <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="50"></a>
+      <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="50"></a>
+    </td>
+    <td width="20%" valign="top">
+      <b>OS</b><br><br>
+      <a href="https://www.microsoft.com/ja-jp/windows"><img src="https://skillicons.dev/icons?i=windows" height="50"></a>
+      <a href="https://ubuntu.org/desktop"><img src="https://skillicons.dev/icons?i=ubuntu" height="50"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" valign="top">
+      <b>Frameworks/Runtime</b><br><br>
+      <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="50"></a>
+      <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="50"></a>
+      <a href="https://dotnet.microsoft.com/ja-jp/"><img src="https://skillicons.dev/icons?i=dotnet" height="50"></a>
+      <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="50"></a>
+      <a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" height="50"></a>
+    </td>
+    <td width="40%" valign="top">
+      <b>DevOps / Servers / DB</b><br><br>
+      <a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx" height="50"></a>
+      <a href="https://cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" height="50"></a>
+      <a href="https://sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" height="50"></a>
+      <a href="https://ubuntu.org/server"><img src="https://skillicons.dev/icons?i=ubuntu" height="50"></a>
+    </td>
+    <td width="20%" valign="top">
+      <b>Game Dev / 3D</b><br><br>
+      <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" height="50"></a>
+      <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" height="50"></a>
+    </td>
+  </tr>
+</table>
+
+---
+
 <br>
 
-**Programming Languages**<br><br>
-[<img src="https://skillicons.dev/icons?i=go" height="50">](https://go.dev/)
-[<img src="https://skillicons.dev/icons?i=ts" height="50">](https://typescriptlang.org/)
-[<img src="https://skillicons.dev/icons?i=python" height="50">](https://www.python.org/)
-[<img src="https://skillicons.dev/icons?i=swift" height="50">](https://www.swift.org/)
-[<img src="https://skillicons.dev/icons?i=html" height="50">](https://developer.mozilla.org/ja-JP/docs/Web/HTML)
-[<img src="https://skillicons.dev/icons?i=css" height="50">](https://developer.mozilla.org/ja-JP/docs/Web/CSS)
-[<img src="https://skillicons.dev/icons?i=javascript" height="50">](https://developer.mozilla.org/ja-JP/docs/Web/JavaScript)
-[<img src="https://skillicons.dev/icons?i=cs" height="50">](https://learn.microsoft.com/ja-JP/dotnet/csharp/)
-[<img src="https://skillicons.dev/icons?i=kotlin" height="50">](https://kotlinlang.org/)
-[<img src="https://skillicons.dev/icons?i=rust" height="50">](https://www.rust-lang.org/)
 
 
-**Editors/Tools/OS**<br><br>
-[<img src="https://skillicons.dev/icons?i=vscode" height="50">](https://code.visualstudio.com/)
-[<img src="https://skillicons.dev/icons?i=visualstudio" height="50">](https://visualstudio.microsoft.com/ja/)
-[<img src="https://skillicons.dev/icons?i=androidstudio" height="50">](https://developer.android.com/studio)
-[<img src="https://skillicons.dev/icons?i=powershell" height="50">](https://learn.microsoft.com/ja-jp/powershell/scripting/overview?view=powershell-7.5)
-[<img src="https://skillicons.dev/icons?i=tailwind" height="50">](https://tailwindcss.com/)
-[<img src="https://skillicons.dev/icons?i=github" height="50">](https://github.com/)
-[<img src="https://skillicons.dev/icons?i=git" height="50">](https://git-scm.com/)
-[<img src="https://skillicons.dev/icons?i=windows" height="50">](https://www.microsoft.com/ja-jp/windows/)
-[<img src="https://skillicons.dev/icons?i=linux" height="50">](https://ubuntu.com/)
+<br>
 
-**Frameworks/Runtime**<br><br>
-[<img src="https://skillicons.dev/icons?i=dotnet" height="50">](https://dotnet.microsoft.com/ja-jp/)
-[<img src="https://skillicons.dev/icons?i=nodejs" height="50">](https://nodejs.org/)
-[<img src="https://skillicons.dev/icons?i=react" height="50">](https://react.dev/)
-[<img src="https://skillicons.dev/icons?i=prisma" height="50">](https://www.prisma.io/)
-
-
-**DevOps / Servers / DB**<br><br>
-[<img src="https://skillicons.dev/icons?i=nginx" height="50">](https://nginx.org/)
-[<img src="https://skillicons.dev/icons?i=cloudflare" height="50">](https://cloudflare.com/)
-[<img src="https://skillicons.dev/icons?i=sqlite" height="50">](https://sqlite.org/)
-[<img src="https://skillicons.dev/icons?i=ubuntu" height="50">](https://ubuntu.org/server)
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=darui3018823&theme=discord&no-frame=true" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" width="60%" valign="top">
+      <img src="https://raw.githubusercontent.com/darui3018823/metrics/master/github-metrics.svg" width="100%">
+    </td>
+    <td width="40%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darui3018823&theme=blue_green" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="40%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darui3018823&theme=blue_green" width="100%">
+    </td>
+  </tr>
+</table>
