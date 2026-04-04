@@ -49,9 +49,12 @@ func Interests() {
 func Policies() {
     fmt.Println("OSS is OSS, CSS is CSS")
     fmt.Println("Tailwind CSS is the best CSS")
-    fmt.Println("1. Make it work. - It’s obvious, but it’s everything.")
-    fmt.Println("2. Build what you love, for yourself. - Self-satisfaction is as vital as the need for approval.")
-    fmt.Println("3. Eliminate Python from everything. - pip must die.")
+    fmt.Println("1. Make it work.")
+    fmt.Println(" - It’s obvious, but it’s everything.")
+    fmt.Println("2. Build what you love, for yourself.")
+    fmt.Println(" - Self-satisfaction is as vital as the need for approval.")
+    fmt.Println("3. Eliminate Python from everything.")
+    fmt.Println(" - pip must die.")
 }
 
 func main() {
