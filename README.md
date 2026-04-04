@@ -124,12 +124,6 @@ func main() {
 
 ---
 
-<br>
-
-
-
-<br>
-
 <table>
   <tr>
     <td colspan="2" align="center">
