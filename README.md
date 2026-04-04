@@ -102,7 +102,6 @@ func main() {
       <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="50"></a>
       <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="50"></a>
       <a href="https://www.microsoft.com/ja-jp/windows"><img src="https://skillicons.dev/icons?i=windows" height="50"></a>
-      <a href="https://ubuntu.org/desktop"><img src="https://skillicons.dev/icons?i=ubuntu" height="50"></a>
     </td>
   </tr>
   <tr>
