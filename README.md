@@ -47,8 +47,12 @@ func Interests() {
 }
 
 func Policies() {
-    fmt.Println("OSS is OSS, CSS is CSS")
-    fmt.Println("Tailwind CSS is the best CSS")
+    var (
+        OSS = "OSS"
+        CSS = "CSS"
+        TailwindCSS = "so best CSS :thunbup: :heart:"
+    )
+
     fmt.Println("1. Make it work.")
     fmt.Println(" - It’s obvious, but it’s everything.")
     fmt.Println("2. Build what you love, for yourself.")
