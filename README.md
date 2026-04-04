@@ -19,38 +19,48 @@ Thanks, TwCSS <3
 
 <br>
 
-```swift
-import Foundation
+```go
+package main
 
-func darui3018823() async {
-    print("👋 Hi, I’m @darui3018823")
-    print("なーんちゃってプログラマー")
-    print("Swift, Kotlin, Goとか使えるようになりたい")
+import "fmt"
+
+func darui3018823() {
+	fmt.Println("👋 Hi, I’m @darui3018823")
+	fmt.Println("なーんちゃってプログラマー")
+	fmt.Println("Swift, Kotlin, Goとか使えるようになりたい")
 }
 
-func AboutMe() async {
-    print("コード書いたりゲームしたり いろんなことをしています")
-    print("Arcaeaは神ゲーなのでやりましょう")
-    print("macください")
+func AboutMe() {
+	fmt.Println("コード書いたりゲームしたり いろんなことをしています")
+	fmt.Println("Arcaeaは神ゲーなのでやりましょう")
+	fmt.Println("macください")
 }
 
-@main
-struct Main {
-    static func main() async {
-        await darui3018823()
-        await AboutMe()
-    }
+func Interests() {
+    fmt.Println("Langs:")
+    fmt.Println("- Go")
+    fmt.Println("- Rust")
+    fmt.Println("- Next.js(React)")
+    fmt.Println("Tools:")
+    fmt.Println("- TailWind CSS")
+    fmt.Println("- PowerShell Core")
 }
 
+func Policies() {
+    fmt.Println("OSS is OSS, CSS is CSS")
+    fmt.Println("Tailwind CSS is the best CSS")
+    fmt.Println("1. Make it work. - It’s obvious, but it’s everything.")
+    fmt.Println("2. Build what you love, for yourself. - Self-satisfaction is as vital as the need for approval.")
+    fmt.Println("3. Eliminate Python from everything. - pip must die.")
+}
+
+func main() {
+	darui3018823()
+	AboutMe()
+	Interests()
+    Policies()
+}
 ```
-
-<dl>
-	<dt>🏠HomePage</dt>
-		<dd target="_blank">https://daruks.com/</dd>
-	<dt>📬Contact at:</dt>
-		<dd target="_blank">https://daruks.com/redirect/mailto</dd>
-</dl>
-<br>
 
 ---
 <br>
@@ -59,39 +69,6 @@ struct Main {
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darui3018823&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darui3018823&theme=blue_green)<br>
 ![](https://github-profile-trophy.vercel.app/?username=darui3018823&theme=discord&no-frame=true)
----
-<br>
-
-## 詳しく自己紹介
-
-
-<strong>Name:</strong><br>
-	darui3018823といいます。<br>
-	末尾を変えて <code>darui3018822</code>、<code>darui3018824</code>、<code>darui3018832</code> や <code>daruks</code> などいろいろあります。<br>
-	"だる"だったり"だるかす"、ほかにもいろいろ名前がありますし呼ばれますが "だる" がいいです
-
-**Interest:**
-
-- **Langs:**
-  - [Golang](https://go.dev)
-  - [Python](https://python.org)
-  - [Next.js](https://nextjs.org)
-
-- **Tools:**
-  - [TailWind CSS](https://tailwindcss.com)
-  - [PowerShell 7](https://learn.microsoft.com/ja-jp/powershell/scripting/overview?view=powershell-7.5)
-
-
-<br>
-
-<strong>Policy:</strong>  
-1. 動くようにする  
-   > 当たり前ですが大事です  
-2. 自己満のために好きなものを作る  
-   > 自己満は承認欲求くらい大事かもしれません  
-3. 全てからPythonを取り除けるようにする
-   > pip sine
-
       
 <br>
 
