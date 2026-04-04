@@ -91,7 +91,6 @@ func main() {
       <b>Editor/IDE</b><br><br>
       <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="50"></a>
       <a href="https://visualstudio.microsoft.com/ja/"><img src="https://skillicons.dev/icons?i=visualstudio" height="50"></a>
-      <a href="https://www.jetbrains.com/rider/"><img src="https://skillicons.dev/icons?i=rider" height="50"></a>
       <a href="https://www.jetbrains.com/webstorm/"><img src="https://skillicons.dev/icons?i=webstorm" height="50"></a>
       <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" height="50"></a>
     </td>
@@ -115,7 +114,6 @@ func main() {
       <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="50"></a>
       <a href="https://dotnet.microsoft.com/ja-jp/"><img src="https://skillicons.dev/icons?i=dotnet" height="50"></a>
       <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="50"></a>
-      <a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" height="50"></a>
     </td>
     <td width="40%" valign="top">
       <b>DevOps / Servers / DB</b><br><br>
