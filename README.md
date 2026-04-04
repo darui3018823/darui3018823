@@ -47,18 +47,15 @@ func Interests() {
 }
 
 func Policies() {
-    var (
-        OSS = "OSS"
-        CSS = "CSS"
-        TailwindCSS = "so best CSS :thunbup: :heart:"
-    )
-
+    fmt.Println("Policies:")
     fmt.Println("1. Make it work.")
     fmt.Println(" - It’s obvious, but it’s everything.")
     fmt.Println("2. Build what you love, for yourself.")
     fmt.Println(" - Self-satisfaction is as vital as the need for approval.")
-    fmt.Println("3. Eliminate Python from everything.")
-    fmt.Println(" - pip must die.")
+    fmt.Println("3. Tailwind Css is the best CSS")
+    fmt.Println(" - i hate css. fuck you")
+    fmt.Println("4. Eliminate Python from everything.")
+    fmt.Println(" - pip must die. Node.js, you're next. You should die too.")
 }
 
 func main() {
