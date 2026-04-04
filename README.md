@@ -38,12 +38,12 @@ func AboutMe() {
 
 func Interests() {
     fmt.Println("Langs:")
-    fmt.Println("- Go")
-    fmt.Println("- Rust")
-    fmt.Println("- Next.js(React)")
+    fmt.Println(" - Go")
+    fmt.Println(" - Rust")
+    fmt.Println(" - Next.js(React)")
     fmt.Println("Tools:")
-    fmt.Println("- TailWind CSS")
-    fmt.Println("- PowerShell Core")
+    fmt.Println(" - TailWind CSS")
+    fmt.Println(" - PowerShell Core")
 }
 
 func Policies() {
