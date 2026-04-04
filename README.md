@@ -86,12 +86,13 @@ func main() {
       <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" height="50"></a>
     </td>
   </tr>
+
   <tr>
     <td width="40%" valign="top">
       <b>Editor/IDE</b><br><br>
       <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="50"></a>
       <a href="https://visualstudio.microsoft.com/ja/"><img src="https://skillicons.dev/icons?i=visualstudio" height="50"></a>
-      <a href="https://www.jetbrains.com/webstorm/"><img src="https://skillicons.dev/icons?i=webstorm" height="50"></a>
+      <a href="https://www.jetbrains.com/rider/"><img src="https://skillicons.dev/icons?i=rider" height="50"></a> <a href="https://www.jetbrains.com/webstorm/"><img src="https://skillicons.dev/icons?i=webstorm" height="50"></a>
       <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" height="50"></a>
     </td>
     <td width="40%" valign="top">
@@ -100,9 +101,6 @@ func main() {
       <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="50"></a>
       <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="50"></a>
       <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="50"></a>
-    </td>
-    <td width="20%" valign="top">
-      <b>OS</b><br><br>
       <a href="https://www.microsoft.com/ja-jp/windows"><img src="https://skillicons.dev/icons?i=windows" height="50"></a>
       <a href="https://ubuntu.org/desktop"><img src="https://skillicons.dev/icons?i=ubuntu" height="50"></a>
     </td>
@@ -121,11 +119,6 @@ func main() {
       <a href="https://cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" height="50"></a>
       <a href="https://sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" height="50"></a>
       <a href="https://ubuntu.org/server"><img src="https://skillicons.dev/icons?i=ubuntu" height="50"></a>
-    </td>
-    <td width="20%" valign="top">
-      <b>Game Dev / 3D</b><br><br>
-      <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" height="50"></a>
-      <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" height="50"></a>
     </td>
   </tr>
 </table>
