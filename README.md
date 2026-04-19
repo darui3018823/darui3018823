@@ -144,3 +144,21 @@ func main() {
     </td>
   </tr>
 </table>
+
+---
+
+<table>
+  <tr>
+    <td rowspan="2" width="60%" valign="top">
+      <img src="https://amcg.daruks.com/api/album?id=1795359661&theme=dark&badge=0&country=jp&suffix=1" width="100%">
+    </td>
+    <td width="40%">
+      <img src="https://amcg.daruks.com/api/card?title=%E3%81%82%E3%82%93%E3%81%9F%E3%81%AB%E3%81%82%E3%81%A3%E3%81%8B%E3%82%93%E3%81%B9&artist=%E8%97%8D%E6%9C%88%E3%81%AA%E3%81%8F%E3%82%8B&album=%E3%81%94%E6%B3%A8%E6%96%87%E3%81%AF%E3%81%88%E3%81%84%E3%81%88%E3%82%93%E3%81%AB+-+Single&artwork=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic221%2Fv4%2Fcf%2F64%2Fc9%2Fcf64c9d9-dc81-7630-f2f9-eb00e5e72268%2FPA00164800_0_204238_jacket.jpg%2F600x600bb.jpg&year=2024&dur=3%3A42&theme=dark&badge=1" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="40%">
+      <img src="https://amcg.daruks.com/api/card?title=Draw+World%21&artist=Endorfin.&album=Dream+Blue&artwork=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic221%2Fv4%2F1e%2Fc3%2F1d%2F1ec31d38-1c7d-ce59-f672-8691c7418745%2FPA00185962_0_222020_jacket.jpg%2F600x600bb.jpg&year=2025&dur=2%3A58&theme=dark&badge=1" width="100%">
+    </td>
+  </tr>
+</table>
