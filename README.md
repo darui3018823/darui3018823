@@ -162,8 +162,8 @@ func main() {
   </tr>
   <tr>
     <td width="40%">
-		<a href="https://amcg.daruks.com/api/open?id=1658501800&amp;s=jp&amp;i=1658501804">
-			<img src="https://amcg.daruks.com/api/card?title=%E6%B7%B1%E6%B5%B7%E3%83%87%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9+%28self+cover%29&amp;artist=%E8%A5%BF%E6%86%82%E8%8A%B1&amp;album=%E6%B7%B1%E6%B5%B7%E3%83%87%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9+%28self+cover%29+-+Single&amp;artwork=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic112%2Fv4%2Fd3%2F1c%2Fdd%2Fd31cdd1d-e7c0-c482-2b95-e889eae9bdd4%2F859759047893_cover.jpg%2F600x600bb.jpg&amp;year=2022&amp;dur=2%3A36&amp;theme=dark&amp;badge=1" alt="深海ディスタンス (self cover)">
+		<a href="https://amcg.daruks.com/api/open?id=1878979462&amp;s=jp&amp;i=1878979467">
+			<img src="https://amcg.daruks.com/api/card?title=Cryogenic+%28feat.+Petra+Gurin%29&amp;artist=%E3%81%8B%E3%82%81%E3%82%8A%E3%81%82&amp;album=Cryogenic+%28feat.+Petra+Gurin%29+-+Single&amp;artwork=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic221%2Fv4%2Fb0%2F72%2Ffc%2Fb072fcd8-87f4-7724-06b5-afcc924a7170%2F4550753644397_cover.png%2F600x600bb.jpg&amp;year=2026&amp;dur=2%3A20&amp;theme=dark&amp;badge=1" alt="Cryogenic (feat. Petra Gurin)">
 		</a>
     </td>
   </tr>
