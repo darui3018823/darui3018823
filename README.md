@@ -75,15 +75,15 @@ func main() {
     <td colspan="3">
       <b>Programming Languages</b><br><br>
       <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" height="50"></a>
+      <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" height="50"></a>
       <a href="https://typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="50"></a>
-      <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="50"></a>
       <a href="https://www.swift.org/"><img src="https://skillicons.dev/icons?i=swift" height="50"></a>
+      <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="50"></a>
       <a href="https://developer.mozilla.org/ja-JP/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="50"></a>
       <a href="https://developer.mozilla.org/ja-JP/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="50"></a>
       <a href="https://developer.mozilla.org/ja-JP/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="50"></a>
       <a href="https://learn.microsoft.com/ja-JP/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="50"></a>
       <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" height="50"></a>
-      <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" height="50"></a>
     </td>
   </tr>
 
