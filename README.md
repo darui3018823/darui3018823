@@ -155,15 +155,15 @@ func main() {
 	  </a>
     </td>
     <td width="40%">
-      <a href="">
+      <a href="https://amcg.daruks.com/api/open?id=6782824353&amp;s=us&amp;i=6782824537">
 		  <img src="https://amcg.daruks.com/api/card?title=Rekindled&amp;artist=Metal+Scar+Radio%2C+Alec+Justice%2C+Keep+Close+%26+Chapters&amp;album=Contingency+Contract+Re-Ignition+Experimental+Operation+%28Original+Soundtrack%29+-+EP&amp;artwork=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic211%2Fv4%2F0f%2Ffd%2F10%2F0ffd10c4-d85f-4952-f3d9-42d2563759b0%2F4711720313047.jpg%2F600x600bb.jpg&amp;year=2026&amp;dur=4%3A15&amp;theme=dark&amp;badge=1" alt="Rekindled">
 	  </a>
     </td>
   </tr>
   <tr>
     <td width="40%">
-		<a href="">
-			<img src="https://amcg.daruks.com/api/card?title=Cryogenic+%28feat.+Petra+Gurin%29&amp;artist=%E3%81%8B%E3%82%81%E3%82%8A%E3%81%82&amp;album=Cryogenic+%28feat.+Petra+Gurin%29+-+Single&amp;artwork=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic221%2Fv4%2Fb0%2F72%2Ffc%2Fb072fcd8-87f4-7724-06b5-afcc924a7170%2F4550753644397_cover.png%2F600x600bb.jpg&amp;year=2026&amp;dur=2%3A20&amp;theme=dark&amp;badge=1" alt="Cryogenic (feat. Petra Gurin)">
+		<a href="https://amcg.daruks.com/api/open?id=1878979462&amp;s=us&amp;i=1878979467">
+			<img src="https://amcg.daruks.com/api/card?title=Cryogenic+%28feat.+Petra+Gurin%29&amp;artist=Camellia&amp;album=Cryogenic+%28feat.+Petra+Gurin%29+-+Single&amp;artwork=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic221%2Fv4%2Fb0%2F72%2Ffc%2Fb072fcd8-87f4-7724-06b5-afcc924a7170%2F4550753644397_cover.png%2F600x600bb.jpg&amp;year=2026&amp;dur=2%3A20&amp;theme=dark&amp;badge=1" alt="Cryogenic (feat. Petra Gurin)">
 		</a>
     </td>
   </tr>
